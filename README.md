@@ -14,22 +14,22 @@ MVVM Architecture
 
 ## Output
  ### Splash Screen
-![Splash Screen](Images/Splash Screen.jpg)
+![Splash Screen](Images/Splash_Screen.jpg)
 
  ### Login page
-![Login](Images/Login Page.jpg)
+![Login](Images/Login_Page.jpg)
 
  ### Home page
-![Home](Images/Home Page.jpg)
+![Home](Images/Home_Page.jpg)
 
  ### Profile Stats page
-![Profile Stats](Images/Profile Stats Page.jpg)
+![Profile Stats](Images/Profile_Stats_Page.jpg)
 
 ### Search page
-![Search](Images/Search Page.jpg)
+![Search](Images/Search_Page.jpg)
 
 ### Book Details page
-![Book Details](Images/Book Details Page.jpg)
+![Book Details](Images/Book_Details_Page.jpg)
 
 ### Update Book page
-![Update Book](Images/Update Book Page.jpg)
+![Update Book](Images/Update_Book_Page.jpg)
